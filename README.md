@@ -223,7 +223,7 @@ The project includes several visualisations illustrating customer churn patterns
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/customer-churn-analysis-python.git
+git clone https://github.com/muhammedbashar/customer-churn-analysis-python.git
 ```
 2. Navigate to the project folder
 ```bash
