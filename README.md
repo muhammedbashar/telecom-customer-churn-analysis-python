@@ -19,7 +19,6 @@ _An end-to-end Exploratory Data Analysis (EDA) project to identify the key drive
 - <a href="#key-insights">Key Insights</a>
 - <a href="#business-recommendations">Business Recommendations</a>
 - <a href="#project-outputs">Project Outputs</a>
-- <a href="#how-to-run-this-project">How to Run This Project</a>
 - <a href="#results--conclusion">Results & Conclusion</a>
 - <a href="#future-work">Future Work</a>
 - <a href="#author--contact">Author & Contact</a>
@@ -217,30 +216,6 @@ The project includes several visualisations illustrating customer churn patterns
 - Key Bivariate Analysis Visualizations
 
 (Project screenshots can be found inside the outputs/ directory.)
-
----
-<h2><a class="anchor" id="how-to-run-this-project"></a>How to Run This Project</h2>
-
-1. Clone the repository:
-```bash
-git clone https://github.com/muhammedbashar/customer-churn-analysis-python.git
-```
-2. Navigate to the project folder
-```bash
-cd customer-churn-analysis-python
-```
-
-3. Install required libraries
-```bash
-pip install -r requirements.txt
-```
-Open the notebook
-
-Run:
-
-   - `notebooks/customer_churn_analysis.ipynb`
-
-Execute all cells sequentially to reproduce the analysis.
 
 ---
 <h2><a class="anchor" id="results--conclusion"></a>Results & Conclusion</h2>
