@@ -1,4 +1,5 @@
 
+
 # Customer Churn Analysis using Python
 
 _An end-to-end Exploratory Data Analysis (EDA) project to identify the key drivers of customer churn, uncover high-risk customer segments, and provide data-driven business recommendations to improve customer retention using Python._
@@ -87,8 +88,6 @@ The dataset contains customer demographic information, subscription details, int
 ---
 <h2><a class="anchor" id="project-structure"></a>Project Structure</h2>
 
-```
-<h2><a class="anchor" id="project-structure"></a>Project Structure</h2>
 
 ```
 customer-churn-analysis-python/
@@ -143,7 +142,7 @@ The following preprocessing steps were performed before the analysis:
 
 - Assessed dataset structure and data quality.
 - Checked for duplicate records.
-- Standardized column names using snake_case naming convention.
+- Standardised column names using snake_case naming convention.
 - Identified and handled missing values.
 - Converted numerical columns to appropriate data types.
 - Removed 11 records containing missing Total Charges values.
@@ -158,7 +157,7 @@ The following preprocessing steps were performed before the analysis:
 The analysis was divided into three major sections:
 
 **Univariate Analysis:**
-- Analyzed the distribution of each categorical feature.
+- Analysed the distribution of each categorical feature.
 - Compared churn rates across customer characteristics.
 - Identified individual variables associated with higher churn.
 
@@ -170,7 +169,7 @@ The analysis was divided into three major sections:
 **Bivariate Analysis:**
 - Compared combinations of customer characteristics.
 - Identified high-risk customer segments by calculating churn rates across feature combinations.
-- Automated repetitive visualization using reusable Python functions.
+- Automated repetitive visualisation using reusable Python functions.
 
 ---
 <h2><a class="anchor" id="key-insights"></a>Key Insights</h2>
@@ -198,15 +197,15 @@ Based on the findings, the following business recommendations are suggested:
 - Strengthen onboarding programs to improve retention during the first year.
 - Encourage customers to migrate from Month-to-Month contracts to longer-term contracts through incentives.
 - Promote value-added services such as Tech Support, Online Security, Device Protection, and Online Backup.
-- Investigate customer satisfaction among Fiber Optic users to identify underlying causes of churn.
+- Investigate customer satisfaction among Fibre Optic users to identify underlying causes of churn.
 - Encourage customers to adopt automatic payment methods instead of Electronic Check.
 - Build targeted retention campaigns for high-risk customer segments identified through bivariate analysis.
-- Continue rewarding long-term loyal customers through loyalty programs and personalized offers.
+- Continue rewarding long-term loyal customers through loyalty programs and personalised offers.
 
 ---
 <h2><a class="anchor" id="project-outputs"></a>Project Outputs</h2>
 
-The project includes several visualizations illustrating customer churn patterns, including:
+The project includes several visualisations illustrating customer churn patterns, including:
 
 - Customer Churn Distribution
 - Churn by Contract Type
@@ -250,7 +249,7 @@ This project successfully identified the major drivers of customer churn through
 
 The findings indicate that customer churn is strongly influenced by contract type, customer tenure, internet service type, payment methods, monthly charges, and the adoption of value-added support services. Customers with multiple high-risk characteristics were found to have substantially higher churn probabilities.
 
-The insights generated through this analysis can support data-driven customer retention strategies, enabling businesses to improve customer satisfaction, reduce churn, and maximize long-term customer lifetime value.
+The insights generated through this analysis can support data-driven customer retention strategies, enabling businesses to improve customer satisfaction, reduce churn, and maximise long-term customer lifetime value.
 
 ---
 <h2><a class="anchor" id="future-work"></a>Future Work</h2>
